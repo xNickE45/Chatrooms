@@ -129,7 +129,7 @@ form input {
 }
 
 @media (max-width: 500px) {
-    #login-container, #chat-container {
+    #room-container, #chat-container {
         width: 100%;
         padding: 10px;
     }
